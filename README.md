@@ -12,4 +12,5 @@ R:
 Son componentes que permiten pasar elementos o contenido entre etiquetas, generando elementos hijos en sus resultados, estos children props no se recomiendan usarlos de forma constante porque su estructura es complicada de leer, no es flexible a la hora de mantener la logica de programacion y tiene comportamientos inesperados a la hora de hacer actualizaciones o existan muchas condiciones. 
 
 ¿Qué es useState en React y para qué se utiliza principalmente?
-R//: useState o variable de estado es un hook que nos permite utilizar variables que estan dentro de funciones afuera de las mismas para gestionar componentes funcionales antes de los hooks, su principal funcion es mantener valores actualizados a la hora de cambiarlos, esto tambien siendo aplicado a funciones con valores predefinidos.
+R: 
+useState o variable de estado es un hook que nos permite utilizar variables que estan dentro de funciones afuera de las mismas para gestionar componentes funcionales antes de los hooks, su principal funcion es mantener valores actualizados a la hora de cambiarlos, esto tambien siendo aplicado a funciones con valores predefinidos.
